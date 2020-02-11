@@ -16,7 +16,7 @@ const INIT_PRODUCTS = [
         name: "Chimpanzee",
         description:"This is chimpanzee",
         details: "This is where some detailes on monkies would go. This monkey done seent some shit.",
-        price:12.10
+        price:10.10
       },
       {
         id: "2",
